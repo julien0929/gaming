@@ -150,7 +150,8 @@ h1 {
     transform: translateX(-200px);
     transition: 1s ease-in;
 }
-/*  */
+
+/*------------------------------- ICON ---------------------------------- */
 
 .icon-part {
     background: black;
@@ -314,7 +315,8 @@ h1 {
     position: relative;
 }
 
-/* barre d'espacement */
+/*----------------------- BARRE D'ESPACEMENT ---------------------------- */
+
 .contact-list:after{
     content:"";
     position: absolute;
@@ -413,7 +415,8 @@ h1 {
     width: 60px;
 }
 
-/* FOOTER */
+/*------------------------------ FOOTER --------------------------------- */
+
 
 footer {
     background: black;
